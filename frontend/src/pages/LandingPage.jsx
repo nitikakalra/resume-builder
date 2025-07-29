@@ -3,7 +3,7 @@ import {useNavigate} from 'react-router-dom';
 import { ArrowRight, Download, LayoutTemplate, Menu, X, Zap } from 'lucide-react';
 import {landingPageStyles} from '../assets/dummystyle';
 import {UserContext} from '../context/UserContext'
-import { ProfileInfoCard } from '../components/Cards.jsX';
+import { ProfileInfoCard } from '../components/Cards.jsx';
 import Modal from '../components/Modal';
 import Login from '../components/Login';
 import SignUp from '../components/SignUp';
