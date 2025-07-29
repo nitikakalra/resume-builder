@@ -23,7 +23,7 @@ The application enables users to input their profile information, education, wor
 
 ### Tools
 - Git and GitHub
-- Vercel (for deployment)
+- Render (for deployment)
 
 ## Folder Structure
 
